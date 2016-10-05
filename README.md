@@ -1,2 +1,2 @@
 # KotlinBrainpreter
-Brainfuck interpreter in Kotlin
+Brainfuck interpreter in Kotlin by Mikroman
